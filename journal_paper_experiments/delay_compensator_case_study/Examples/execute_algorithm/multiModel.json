@@ -1,0 +1,17 @@
+{
+    "fmus": {
+        "{Damper}": "GENERATED/PATH/TO/Damper.fmu",
+        "{Delay}": "GENERATED/PATH/TO/Delay.fmu",
+        "{QuarterCar}": "GENERATED/PATH/TO/QuarterCar.fmu",
+        "{Receiver}": "GENERATED/PATH/TO/Receiver.fmu",
+        "{Sender}": "GENERATED/PATH/TO/Sender.fmu",
+        "{Plot}": "GENERATED/PATH/TO/Plot.fmu"
+    },
+    "connections": {},
+    "parameters": {},
+    "loggingOn": false,
+    "logLevels": null,
+    "logVariables": {
+        "{QuarterCar}.qcar": ["RattleAcc"]
+    }
+}

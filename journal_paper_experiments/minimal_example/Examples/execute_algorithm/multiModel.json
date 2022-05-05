@@ -1,0 +1,8 @@
+{
+    "fmus": {
+        "{MSD1}": ".../fmus/MassSpringDamper1.fmu",
+        "{MSD2}": ".../fmus/MassSpringDamper2.fmu"
+    },
+    "connections": {},
+    "parameters": {}
+}
